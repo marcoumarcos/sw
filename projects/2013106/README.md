@@ -89,12 +89,15 @@
 
 #### Αποτελέσματα
 
+Αλλαγή χρωμάτων:
 <img src="https://i.imgur.com/KcoUAzx.png"/> 
 
 <img src="https://i.imgur.com/riwZAiS.png"/> 
 
+Zoom:
 <img src="https://i.imgur.com/TN5N1MY.png"/> 
 
+Νέα ομαδοποίηση:
 <img src="https://i.imgur.com/638KCW2.png"/> 
 
 <img src="https://i.imgur.com/MaZIiMq.png"/> 
