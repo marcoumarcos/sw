@@ -42,7 +42,7 @@
 4.	Wates Group Services
 5.	Lord John Sainsbury
 
-### Παράρτημα
+### Παράρτημα 1ου παραδοτέου
 
 Παρατίθενται στιγμιότυπα, ενδεικτικά των αλλαγών μου.
 
@@ -55,4 +55,22 @@
 <img src="https://i.imgur.com/638KCW2.png"/> 
 
 
- ## Παραδοτέο 2
+### Παραδοτέο 2
+ 
+1.
+
+2.
+ 
+3.
+ 
+4.
+ 
+### Παράρτημα 2ου παραδοτέου
+
+Παρατίθενται στιγμιότυπα, ενδεικτικά των αλλαγών μου.
+
+<img src="https://i.imgur.com/MaZIiMq.png"/> 
+
+<img src="https://i.imgur.com/swAhKiN.png"/> 
+
+<img src="https://i.imgur.com/YDqNY8C.png"/> 
