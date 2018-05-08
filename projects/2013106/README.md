@@ -89,6 +89,20 @@
 
 #### Αποτελέσματα
 
+<img src="https://i.imgur.com/KcoUAzx.png"/> 
+
+<img src="https://i.imgur.com/riwZAiS.png"/> 
+
+<img src="https://i.imgur.com/TN5N1MY.png"/> 
+
+<img src="https://i.imgur.com/638KCW2.png"/> 
+
+<img src="https://i.imgur.com/MaZIiMq.png"/> 
+
+<img src="https://i.imgur.com/swAhKiN.png"/> 
+
+<img src="https://i.imgur.com/YDqNY8C.png"/> 
+
 #### Συμπεράσματα
 
 #### Βιβλιογραφία
